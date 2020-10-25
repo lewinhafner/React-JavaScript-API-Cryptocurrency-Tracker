@@ -1,6 +1,6 @@
 # Cryptocurrency Tracker [React]
 
-## Available Scripts
+## Demonstration
 
 [Demonstration]: (https://lewinhafner.github.io/React-JavaScript-API-Cryptocurrency-Tracker/)
 
