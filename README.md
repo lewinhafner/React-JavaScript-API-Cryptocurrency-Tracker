@@ -2,7 +2,7 @@
 
 ## Demonstration
 
-[Demonstration]: (https://lewinhafner.github.io/React-JavaScript-API-Cryptocurrency-Tracker/)
+https://lewinhafner.github.io/React-JavaScript-API-Cryptocurrency-Tracker/
 
 The following project has been realised using React, a JavaScript library for building user interfaces. Navigate to the src folder to find the source code.
 
