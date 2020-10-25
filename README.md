@@ -2,8 +2,8 @@
 
 The following project has been realised using React, a JavaScript library for building user interfaces. Navigate to the src folder to find the source code.
 
-React[https://reactjs.org/] <br>
-Axios [https://github.com/axios/axios]
+[React] (https://reactjs.org/) <br>
+[Axios] (https://github.com/axios/axios)
 
 ## Available Scripts
 
